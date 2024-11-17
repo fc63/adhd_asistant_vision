@@ -42,5 +42,7 @@ I want to design an advanced NLP-powered assistant to make the lives of people w
 **Technical Approach:**
 
 **Data Security and Privacy:** User data will be protected and processed in accordance with stringent privacy standards within the cloud-based system.
+
 **Customizable Structure:** Features can be tailored to user preferences for a more personalized experience.
+
 **Real-Time Processing:** The assistant will handle user commands and sensor data in real time, ensuring quick and accurate responses.
