@@ -36,6 +36,9 @@ I want to design an advanced NLP-powered assistant to make the lives of people w
 **Emergency Mode for Critical Reminders:**
         The assistant will send urgent alerts for crucial appointments or deadlines, possibly through a vibration device or portable alert system.
 
+**Social Behavior Awareness:** 
+        The assistant will observe and analyze common social behaviors throughout the day and provide subtle advice or alerts about noticeable patterns that users might be unaware of, helping them adjust and improve their interactions.
+
 **Technical Approach:**
 
 **Data Security and Privacy:** User data will be protected and processed in accordance with stringent privacy standards within the cloud-based system.
