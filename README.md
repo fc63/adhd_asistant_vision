@@ -16,6 +16,11 @@ I want to design an advanced NLP-powered assistant to make the lives of people w
 **Decision Support for Indecisiveness:**
         When users face indecision, the assistant will suggest the best option based on their past preferences and choices. This will help guide them toward decisions that align with what they have previously enjoyed or found effective.
 
+**Focus and Goal Reminder:**
+        The assistant will monitor users’ activities to detect when they are straying from their main goal or task. It will send gentle reminders at regular intervals until the user returns to their primary objective, helping maintain focus and productivity.
+
+
+
 **Additional Features:**
 
 **Customized Routine Management:**
